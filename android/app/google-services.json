@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "629645419529",
+    "project_id": "lassahara-bf23e",
+    "storage_bucket": "lassahara-bf23e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629645419529:android:0d6bbcec93fded51c084d8",
+        "android_client_info": {
+          "package_name": "com.teetech.lassaharamart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629645419529-pafbf9f11t7muneig72r42700gqakesa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teetech.lassaharamart2",
+            "certificate_hash": "0a302ad572d7b1d3feae8f4265108ce2ca983b2a"
+          }
+        },
+        {
+          "client_id": "629645419529-66jt5intdu7tlkof6hc9qgrt07tvrnjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChAxUaz5c49AZ6eCYBsYeiVV597lXUd6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629645419529-66jt5intdu7tlkof6hc9qgrt07tvrnjk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "629645419529-0bijpm6g9m2td0me8vqerk88hob0gmug.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.teetech.lassaharavendor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629645419529:android:13bb7a088c2a3b9fc084d8",
+        "android_client_info": {
+          "package_name": "com.teetech.lassaharavendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629645419529-66jt5intdu7tlkof6hc9qgrt07tvrnjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChAxUaz5c49AZ6eCYBsYeiVV597lXUd6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629645419529-66jt5intdu7tlkof6hc9qgrt07tvrnjk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "629645419529-0bijpm6g9m2td0me8vqerk88hob0gmug.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.teetech.lassaharavendor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
